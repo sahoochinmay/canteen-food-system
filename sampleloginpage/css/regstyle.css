@@ -1,0 +1,91 @@
+
+#toppage{
+	position: relative;
+width: 1024px;
+height: 669px;
+margin: 0 auto;
+background: #FFFFFF;
+border: 1px solid #FFFFFF;
+box-sizing: border-box;
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
+}
+.home{
+	position: absolute;
+    width: 1024px;
+ 	height: 686px;
+ 	left: 0px;
+ 	top: 0px;
+ 	-webkit-filter:blur(4px);
+}
+.Canteen{
+	position: absolute;
+width: 379px;
+height: 48px;
+left: 37px;
+top: 33px;
+
+font-family: Rammetto One;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 61px;
+
+color: #42FF00;
+text-shadow: 0px 30px 20px rgba(0, 0, 0, 0.02);
+}
+p{
+  font-family: "Rammetto One";
+}
+.house{
+	position: absolute;
+width: 53px;
+height: 48px;
+left: 911px;
+top: 33px;
+}
+.rect{
+	position: absolute;
+width: 700px;
+height: 500px;
+left: 150px;
+top: 155px;
+
+background: rgba(196, 196, 196, 0.5);
+box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.7);
+border-radius: 40px;
+}
+.inputvalues{
+	width: 418px;
+	margin: 0 auto;
+	padding: 5px;
+	height: 30px;
+	font-size: 20px;
+	background: #C4C4C4;
+opacity: 0.6;
+border: 1px solid #000000;
+
+}
+#signup_btn{
+	background: #42FF00;
+opacity: 0.6;
+border: 1px solid #000000;
+padding: 5px;
+color: black;
+width: 425px;
+font-size: 24px;
+height: 50px;
+}
+#back_btn{
+	background: #A93838;
+opacity: 0.6;
+border: 1px solid #000000;
+padding: 5px;
+color: black;
+width: 425px;
+font-size: 24px;
+height: 50px;
+}
+.myforms{
+	
+	margin-left: 50px;
+}
