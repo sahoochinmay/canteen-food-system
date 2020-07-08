@@ -4,4 +4,4 @@ Here we just make a simple ui design .
 And you a simple login and create account  page using php.
 
 Checkout at Figma:
-  https://www.figma.com/files/project/5467290/Canteen-Food-Ordering-System
+ https://www.figma.com/proto/R1LTusw5NLZDCWhOx46ZKQ/Canteen-food-system?node-id=15%3A2&scaling=min-zoom
