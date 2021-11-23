@@ -7,3 +7,7 @@ And you a simple login and create account  page using php.
 
 Checkout Video and Photos:
 https://www.behance.net/gallery/98422899/Canteen-food-ordering-system-UXUI-design
+
+Some text[1]
+
+[1]: http://somelink.com/?target=_blank
