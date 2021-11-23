@@ -11,3 +11,5 @@ https://www.behance.net/gallery/98422899/Canteen-food-ordering-system-UXUI-desig
 Some text[1]
 
 [1]: http://somelink.com/?target=_blank
+
+<a href="http://example.com/" target="_blank">example</a>
